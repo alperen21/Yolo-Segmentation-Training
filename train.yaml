@@ -1,5 +1,5 @@
-train: /home/yolov8-cellface/analysis/patch_pipeline/yolov8_train_patch/v4_yolov8-seg/train
-val: /home/yolov8-cellface/analysis/patch_pipeline/yolov8_train_patch/v4_yolov8-seg/valid
+train: /Users/alperen/Projects/Yolo-Segmentation-Training/train
+val: /Users/alperen/Projects/Yolo-Segmentation-Training/val
 
 nc: 3
 names: ['RBC', 'WBC', 'PLT']
